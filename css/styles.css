@@ -1,0 +1,25 @@
+/* Base Layout */
+
+.wrapper {
+  width: 80%;
+  align-content: center;
+  margin: auto;
+}
+
+header {
+  height: 75px;
+}
+
+header input {
+  margin: auto;
+  margin-top: 25px;
+  width: 400px;
+  position: relative;
+  left: 25%;
+}
+
+img {
+  padding: 15px;
+  margin: auto;
+  width: 200px;
+}
